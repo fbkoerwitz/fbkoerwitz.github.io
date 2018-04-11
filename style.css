@@ -91,6 +91,10 @@ td:nth-child(4) {
   width: 20%;
 }
 
+.pagehop {
+  background: #EEE
+}
+
 .search {
   background-color: #FFF;
   border: 1px solid #DDD;
