@@ -75,7 +75,7 @@ th, td {
   width: 800px;
 }
 
-tdh:nth-child(1) {
+td:nth-child(1) {
   width: 30%;
 }
 
@@ -83,7 +83,7 @@ td:nth-child(2) {
   width: 40%;
 }
 
-thead td:nth-child(3) {
+td:nth-child(3) {
   width: 10%;
 }
 
