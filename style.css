@@ -60,6 +60,23 @@ thead th {
   text-transform: uppercase;
 }
 
+
+thead th:nth-child(1) {
+  width: 30%;
+}
+
+thead th:nth-child(2) {
+  width: 40%;
+}
+
+thead th:nth-child(3) {
+  width: 10%;
+}
+
+thead th:nth-child(4) {
+  width: 20%;
+}
+
 tr {
   background: #f4f7f8;
   border-bottom: 1px solid #FFF;
