@@ -105,11 +105,10 @@ td:nth-child(4) {
   width: 77%;
 }
 
-  <style>
-  .float-left {
+.float-left {
     float: left;
     padding: 20px;
     margin: 0 50px 50px 0;
   }
       
-</style>
+
