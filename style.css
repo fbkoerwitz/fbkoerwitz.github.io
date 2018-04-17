@@ -16,7 +16,6 @@ table {
 .navigation {
   margin: 0 auto;
   background-color: #F4F4F4;
-  border: 2px solid black;
   font-align: center;
   font-weight: bold;
   width: 50%;
@@ -24,7 +23,6 @@ table {
 }
 
 .navigation td {
-  border: 1px solid black;
   margin: 0 auto;
   text-align: center;
 }
