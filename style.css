@@ -18,6 +18,12 @@ table {
 
 .navigation td {
   border: 1px dotted black;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.navigation td:hover {
+  background-color: #000000
 }
 
 .navigation td:nth-child(1) {
@@ -26,10 +32,6 @@ table {
 
 .navigation td:nth-child(2) {
   width: 50%;
-}
-.navigation td {
-  margin: 0 auto;
-  text-align: center;
 }
 
 thead th {
