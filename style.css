@@ -10,10 +10,14 @@ table {
 .navigation {
   margin: 0 auto;
   background-color: #F4F4F4;
-  border: 1px solid black;
+  border: 2px solid black;
   font-align: center;
   width: 50%;
   scroll-behavior: smooth;
+}
+
+.navigation td {
+  border: 1px dotted black;
 }
 
 .navigation td:nth-child(1) {
