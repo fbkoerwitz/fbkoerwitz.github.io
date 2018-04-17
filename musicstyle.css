@@ -21,6 +21,7 @@ table {
   font-weight: bold;
   width: 50%;
   scroll-behavior: smooth;
+  position: sticky;
 }
 
 .navigation td a:link, a:visited {
