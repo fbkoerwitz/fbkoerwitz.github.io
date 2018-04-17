@@ -23,15 +23,12 @@ table {
   scroll-behavior: smooth;
 }
 
-.navigation a:link, a:visited {
+.navigation td a:link, a:visited {
+  margin: 0 auto;
+  text-align: center;
   color: black;
   text-decoration: none;
   display: inline-block;
-}
-
-.navigation td {
-  margin: 0 auto;
-  text-align: center;
 }
 
 .navigation td:hover {
