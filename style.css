@@ -13,6 +13,7 @@ table {
   border: 1px solid black;
   font-align: center;
   width: 50%;
+  scroll-behavior: smooth;
 }
 
 .navigation td:nth-child(1) {
