@@ -1,7 +1,7 @@
 /* Table */
 
 table {
-  margin: 25% 25%;
+  margin: 0 auto;
   overflow: scroll;
   position: static;
   width: 80%;
