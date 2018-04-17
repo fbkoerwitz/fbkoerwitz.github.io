@@ -7,10 +7,11 @@ table {
   width: 80%;
 }
 
-table.navigation {
+.navigation {
   margin: 0 auto;
   background-color: #000000;
   border: 1px solid black;
+  font-align: center;
 }
 
 thead th {
