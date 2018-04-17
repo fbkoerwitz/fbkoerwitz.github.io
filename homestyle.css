@@ -3,6 +3,7 @@
 }
 
 .centerbox {
+  padding: 25px;
   border: 2px solid black;
   text-align: center;
 }
