@@ -4,10 +4,6 @@
   font-family: Tahoma, sans-serif;
 }
 
-a:link, a:visited {
-  color: black;
-  text-decoration: none;
-}
 
 /* Table */
 
@@ -25,6 +21,11 @@ table {
   font-weight: bold;
   width: 50%;
   scroll-behavior: smooth;
+}
+
+.navigation a:link, a:visited {
+  color: black;
+  text-decoration: none;
 }
 
 .navigation td {
