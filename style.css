@@ -14,6 +14,11 @@ table {
   font-align: center;
 }
 
+.navigation td {
+  margin: 0 auto;
+  text-align: center;
+}
+
 thead th {
   background: #000000;
   color: #FFF;
