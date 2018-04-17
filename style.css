@@ -1,3 +1,9 @@
+/* Fonts */
+
+.container {
+  font-family: Tahoma, sans-serif;
+}
+
 /* Table */
 
 table {
@@ -12,6 +18,7 @@ table {
   background-color: #F4F4F4;
   border: 2px solid black;
   font-align: center;
+  font-weight: bold;
   width: 50%;
   scroll-behavior: smooth;
 }
