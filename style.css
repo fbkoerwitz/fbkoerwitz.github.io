@@ -4,6 +4,10 @@
   font-family: Tahoma, sans-serif;
 }
 
+a:link, a:visited {
+  color: black;
+}
+
 /* Table */
 
 table {
