@@ -17,13 +17,13 @@ table {
 }
 
 .navigation td {
-  border: 1px dotted black;
+  border: 1px solid black;
   margin: 0 auto;
   text-align: center;
 }
 
 .navigation td:hover {
-  background-color: #000000
+  background-color: #808080
 }
 
 .navigation td:nth-child(1) {
