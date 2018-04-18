@@ -4,6 +4,9 @@
   font-family: Tahoma, sans-serif;
 }
 
+.left {
+  position: fixed;
+}
 
 /* Table */
 
