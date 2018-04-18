@@ -27,6 +27,8 @@ body {
 }
 
 .centerbox-text {
+  background: none;
+  opacity: 0.00;
   width: 30%;
   height: 30%;
   position: absolute;
