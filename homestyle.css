@@ -44,9 +44,9 @@ body {
     float: left;
     text-align: center;
     align-content: center;
+    vertical-align: middle;
     display: inline-block;
     z-index: 3;
-    top: 50%;
 }
 
 .right-centerbox-text {
@@ -54,7 +54,7 @@ body {
     float: right;
     text-align: center;
     align-content: center;
+    vertical-align: middle;
     display: inline-block;
     z-index: 3;
-    top: 50%;
 }
