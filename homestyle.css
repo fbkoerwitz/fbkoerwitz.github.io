@@ -24,6 +24,7 @@ body {
   align-content: center;
   background: white;
   opacity: 0.50;
+  z-index: 1;
 }
 
 .centerbox-text {
@@ -35,4 +36,5 @@ body {
   top: 35%;
   left: 35%;
   margin: 0 auto;
+  z-index: 2;
 }
