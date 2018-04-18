@@ -4,11 +4,13 @@
 
 .homeimage {
   background-image: url("https://fbkoerwitz.github.io/0738902-R1-042-19A.jpg");
-  background-position: fixed;
+  position: fixed;
   width: 50%;
   height: 50%
   top: 25%;
   left: 25%;
+  border: none;
+  margin: 0 auto;
 }
 
 .centerbox {
