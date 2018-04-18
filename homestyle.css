@@ -25,3 +25,12 @@ body {
   background: white;
   opacity: 0.50;
 }
+
+.centerbox-text {
+  width: 30%;
+  height: 30%;
+  position: fixed;
+  top: 35%;
+  left: 35%;
+  margin: 0 auto;
+}
