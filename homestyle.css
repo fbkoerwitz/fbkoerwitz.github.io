@@ -2,6 +2,15 @@
   font-family: Tahoma, sans-serif;
 }
 
+.homeimage {
+  background-image: ;
+  background-position: fixed;
+  background-width: 50%;
+  background-height: 50%
+  top: 25%;
+  left: 25%;
+}
+
 .centerbox {
   margin: 0 auto;
   width: 40%;
