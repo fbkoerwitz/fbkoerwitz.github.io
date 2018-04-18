@@ -5,8 +5,8 @@
 .homeimage {
   background-image: url("https://fbkoerwitz.github.io/0738902-R1-042-19A.jpg");
   background-position: fixed;
-  background-width: 50%;
-  background-height: 50%
+  width: 50%;
+  height: 50%
   top: 25%;
   left: 25%;
 }
