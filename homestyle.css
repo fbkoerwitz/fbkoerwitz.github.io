@@ -47,8 +47,6 @@ body {
     display: inline-block;
     z-index: 3;
     top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
 
 .right-centerbox-text {
@@ -59,6 +57,4 @@ body {
     display: inline-block;
     z-index: 3;
     top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
