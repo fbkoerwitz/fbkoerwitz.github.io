@@ -4,13 +4,15 @@
 
 .centerbox {
   margin: 0 auto;
-  width: 50%;
-  height: 50%;
+  width: 40%;
+  height: 40%;
   position: fixed;
-  top: 25%;
-  left: 25%;
+  top: 30%;
+  left: 30%;
   padding: 25px;
   border: 2px solid black;
   -webkit-align-content: center;
   align-content: center;
+  background: white;
+  opacity: 50%
 }
