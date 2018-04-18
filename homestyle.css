@@ -38,3 +38,15 @@ body {
   margin: 0 auto;
   z-index: 2;
 }
+
+.left-centerbox-text {
+    width: 50%;
+    float: left;
+    align: center;
+}
+
+.right-centerbox-text {
+    width: 50%;
+    float: right;
+    align: center;
+}
