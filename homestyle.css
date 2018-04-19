@@ -41,6 +41,10 @@ body {
     padding: 0px;
 }
 
+td {
+    border: 1px solid black;
+}
+
 .centerbox-text {
   background: none;
   opacity: .99;
