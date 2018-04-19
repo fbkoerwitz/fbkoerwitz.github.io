@@ -10,6 +10,7 @@ body {
   font-family: Tahoma, sans-serif;
   font-weight: bold;
   font-size: 50px;
+  padding: 0px;
 }
 
 .container a:link, a:visited {
@@ -45,6 +46,7 @@ body {
 #centerbox-content {
     background: none;
     opacity: 0.99;
+    padding: 0px;
 }
 
 td:nth-child(1) {
