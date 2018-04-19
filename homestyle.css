@@ -33,10 +33,11 @@ body {
   z-index: 1;
 }
 
-.centerbox td {
+.centerbox table {
     opacity: 0.99;
     text-align: center;
     align-content: center;
+    z-index: 2;
 }
 
 .centerbox-text {
