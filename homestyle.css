@@ -41,6 +41,10 @@ body {
     margin: 0 auto;
 }
 
+#centerbox-content {
+    opacity: 0.99;
+}
+
 td:nth-child(1) {
     width: 25%;
     text-align: center;
