@@ -52,12 +52,14 @@ body {
 td:nth-child(1) {
     width: 25%;
     text-align: center;
+    align-content: center;
     padding: 0px;
 }
 
 td:nth-child(2) {
     width: 75%;
     text-align: center;
+    align-content: center;
     padding: 0px;
 }
 
