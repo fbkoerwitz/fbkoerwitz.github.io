@@ -39,11 +39,19 @@ body {
     align-content: center;
     z-index: 2;
     padding: 0px;
+    margin: 0 auto;
 }
 
-td {
+td:nth-child(1) {
+    width: 25%;
     border: 1px solid black;
 }
+
+td:nth-child(2) {
+    width: 75%;
+    border: 1px solid black;
+}
+
 
 .centerbox-text {
   background: none;
