@@ -38,6 +38,7 @@ body {
     text-align: center;
     align-content: center;
     z-index: 2;
+    padding: 0px;
 }
 
 .centerbox-text {
@@ -50,28 +51,4 @@ body {
   left: 35%;
   margin: 0 auto;
   z-index: 2;
-}
-
-.left-centerbox-text {
-    width: 50%;
-    height: 100%;
-    top: 25%;
-    float: left;
-    text-align: center;
-    align-content: center;
-    vertical-align: middle;
-    display: inline-block;
-    z-index: 3;
-}
-
-.right-centerbox-text {
-    width: 50%;
-    height: 100%;
-    top: 25%;
-    float: right;
-    text-align: center;
-    align-content: center;
-    vertical-align: middle;
-    display: inline-block;
-    z-index: 3;
 }
