@@ -27,6 +27,12 @@ body {
   z-index: 1;
 }
 
+.centerbox td {
+    opacity: 0.99;
+    text-align: center;
+    align-content: center;
+}
+
 .centerbox-text {
   background: none;
   opacity: .99;
