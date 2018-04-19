@@ -8,6 +8,8 @@ body {
 
 .container {
   font-family: Tahoma, sans-serif;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 
