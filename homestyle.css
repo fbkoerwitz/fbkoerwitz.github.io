@@ -42,6 +42,7 @@ body {
 }
 
 #centerbox-content {
+    background: none;
     opacity: 0.99;
 }
 
