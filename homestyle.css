@@ -53,14 +53,12 @@ td:nth-child(1) {
     width: 25%;
     text-align: center;
     padding: 0px;
-    border: 1px solid black;
 }
 
 td:nth-child(2) {
     width: 75%;
     text-align: center;
     padding: 0px;
-    border: 1px solid black;
 }
 
 
