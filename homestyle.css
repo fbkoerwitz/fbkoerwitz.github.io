@@ -35,7 +35,6 @@ body {
 
 .centerbox table {
     opacity: 0.99;
-    text-align: center;
     align-content: center;
     z-index: 2;
     padding: 0px;
@@ -44,11 +43,13 @@ body {
 
 td:nth-child(1) {
     width: 25%;
+    text-align: center;
     border: 1px solid black;
 }
 
 td:nth-child(2) {
     width: 75%;
+    text-align: center;
     border: 1px solid black;
 }
 
