@@ -11,9 +11,10 @@
 <body>
 I am learning to take pictures.
   <BR><BR><BR>
-<div class="dropdown">
-  <span><b>PHOTOS</b></span>
-  <div class="dropdown-content">
+    
+   <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn"><b>PHOTOS</b></button>
+  <div id="myDropdown" div class="dropdown-content">
     <p>2017_12_22</p>
     <p>2018_01_30</p>
     <p>2018_03_01</p>
@@ -21,5 +22,31 @@ I am learning to take pictures.
     <p>2018_04_24</p>
   </div>
 </div>
+    
+    
+    <script>
+      
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+    
 </body>
 </html>
