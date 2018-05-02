@@ -37,7 +37,7 @@ body {
 }
 
 
-.homeagain a, a:visited {
+.contents a, a:visited {
     display: inline-block;
     text-decoration: none;
     color: black;
