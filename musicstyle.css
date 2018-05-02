@@ -87,6 +87,7 @@ thead th {
 td {
   border: 1px solid;
   border-color: #ffe6ff;
+  border-collapse: collapse;
 }
 
 td:nth-child(1) {
