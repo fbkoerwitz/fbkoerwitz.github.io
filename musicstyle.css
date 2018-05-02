@@ -19,7 +19,7 @@ table {
 
 .navigation {
   margin: 0 auto;
-  background-color: #FFFFFF;
+  background-color: #ffe6ff;
   font-align: center;
   font-weight: bold;
   width: 50%;
@@ -36,7 +36,7 @@ table {
 }
 
 .navigation td:hover {
-  background-color: #ffe6ff
+  background-color: #ffccff
 }
 
 .navigation td:nth-child(1) {
