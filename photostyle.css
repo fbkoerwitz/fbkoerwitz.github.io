@@ -3,28 +3,16 @@ body {
 }
 
 .homeagain {
-    content-width: 80px;
-    content-height: 40px;
     text-align: center;
     font-size: 12px;
 }
 
-.homeagain a {
+.homeagain a, a:visited {
     display: block;
-}
-
-.homeagain a:visited {
     text-docoration: none;
     color: black;
 }
     
-ul {
+.homeagain ul {
   list-style-type: none;
-}
-
-.dropdown {
-    position: relative;
-    display: block;
-    padding: 0px 0px 0px 25px;
-    background-color: #ffccff;
 }
