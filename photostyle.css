@@ -13,19 +13,19 @@ body {
     color: black;
 }
 
-#contents {
+.contents {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
 }
 
-#contents th {
+.contents th {
     width: 100%;
     background-color: #ffccff;
     content-align: center;
     text-align: center;
 }
 
-#contents td {
+.contents td {
     width: 20%;
     border: none;
     content-align: center;
