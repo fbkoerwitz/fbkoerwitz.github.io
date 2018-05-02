@@ -14,7 +14,7 @@ body {
 }
 
 .header-container {
-    float: center;
+    vertical-align: middle;
     width: 50%;
 }
 
