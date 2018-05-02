@@ -20,7 +20,7 @@ body {
 
 .contents th {
     width: 100%;
-    background-color: #ffccff;
+    background: #ffccff;
     content-align: center;
     text-align: center;
 }
