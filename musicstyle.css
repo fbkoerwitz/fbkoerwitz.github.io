@@ -21,6 +21,7 @@ table {
   margin: 30px 10px 10px 10px;
   background-color: #ffe6ff;
   width: 50%;
+  font-weight: bold;
 }
   
 .homeagain a:link, a:visited {
@@ -29,6 +30,10 @@ table {
   color: black;
   text-decoration: none;
   display: inline-block; 
+}
+
+.homeagain td:hover {
+  background-color: #ffccff
 }
 
 .navigation {
