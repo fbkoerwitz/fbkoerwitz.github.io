@@ -8,7 +8,7 @@ body {
 }
 
 .homeagain a, a:visited {
-    display: block;
+    display: inline-block;
     text-docoration: none;
     color: black;
 }
