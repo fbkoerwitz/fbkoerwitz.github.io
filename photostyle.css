@@ -12,7 +12,22 @@ body {
     text-docoration: none;
     color: black;
 }
-    
-.homeagain ul {
-  list-style-type: none;
+
+#contents {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+#contents th {
+    width: 100%;
+    background-color: #ffccff;
+    content-align: center;
+    text-align: center;
+}
+
+#contents td {
+    width: 20%;
+    border: none;
+    content-align: center;
+    text-align: center;
 }
