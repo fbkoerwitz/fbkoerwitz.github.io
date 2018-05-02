@@ -84,6 +84,11 @@ thead th {
   border-radius: 5px;
 }
 
+td {
+  border: 1px solid;
+  border-color: #ffe6ff;
+}
+
 td:nth-child(1) {
   width: 30%;
 }
