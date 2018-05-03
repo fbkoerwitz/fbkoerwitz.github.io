@@ -44,13 +44,7 @@ body {
 }
 
 
-/* PHOTO ROWS */
-
-#resize img {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-  margin: auto;
-  max-height: 50%;
-  max-width: 50%;
+.filmshots img { 
+    width: 50%;
+    margin: auto;
 }
