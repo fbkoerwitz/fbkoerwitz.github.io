@@ -44,6 +44,13 @@ body {
 }
 
 
+.filmshots {
+    content-align: center;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+}
+
 .filmshots img { 
     width: 40%;
     margin: 5px;
