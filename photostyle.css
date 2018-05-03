@@ -47,4 +47,7 @@ body {
 .filmshots img { 
     width: 50%;
     margin: auto;
+    content-align: center;
+    vertical-align: middle;
+    text-align: center;
 }
