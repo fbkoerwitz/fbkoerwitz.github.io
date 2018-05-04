@@ -28,12 +28,12 @@ body {
   -webkit-align-content: center;
   align-content: center;
   background: white;
-  opacity: 0.50;
+  opacity: 1.0;
   z-index: 1;
 }
 
 .centerbox table {
-    opacity: 0.99;
+    opacity: 1.0;
     align-content: center;
     z-index: 2;
     padding: 0px;
@@ -42,7 +42,7 @@ body {
 
 #centerbox-content {
     background: none;
-    opacity: 0.99;
+    opacity: 1.00;
     padding: 0px;
 }
 
