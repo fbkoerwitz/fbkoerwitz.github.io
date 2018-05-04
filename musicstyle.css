@@ -8,6 +8,10 @@
   position: fixed;
 }
 
+.right {
+  margin-top: 20px;
+}
+
 a {
   display: block;
 }
