@@ -6,6 +6,7 @@
 
 .left {
   position: fixed;
+  background: #f0f2f4;
 }
 
 .right {
@@ -33,6 +34,7 @@ table {
   padding: 0px;
   border-radius: 5px;
   border: 1px solid #000000;
+  box-shadow: 5px 10px #d3d9de;
 }
   
 .homeagain a:link, a:visited {
@@ -58,6 +60,7 @@ table {
   width: 100%;
   scroll-behavior: smooth;
   position: sticky;
+  box-shadow: 5px 10px #d3d9de;
 }
 
 .navigation td a:link, a:visited {
