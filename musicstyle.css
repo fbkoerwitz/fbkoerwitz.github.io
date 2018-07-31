@@ -32,8 +32,8 @@ table {
   font-size: 12px;
   font-weight: bold;
   padding: 0px;
-  border-radius: 5px;
-  border: 1px solid #000000;
+  border-radius: 0px;
+  border: none;
 }
   
 .homeagain a:link, a:visited {
