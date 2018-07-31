@@ -93,6 +93,10 @@ thead th {
   border: none;
 }
 
+td {
+  font-size: 12px;
+}
+
 td:nth-child(1) {
   width: 30%;
 }
