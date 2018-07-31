@@ -71,7 +71,7 @@ table {
 }
 
 .navigation td:hover {
-  background-color: #ffccff
+  background-color: #ffffff
 }
 
 .navigation td:nth-child(1) {
@@ -88,8 +88,8 @@ thead th {
   font-size: 12px;
   font-weight: 100;
   text-transform: uppercase;
-  border-radius: 5px;
-  border: 1px solid #000000;
+  border-radius: 0px;
+  border: none;
 }
 
 td:nth-child(1) {
