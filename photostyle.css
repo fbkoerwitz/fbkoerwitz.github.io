@@ -1,3 +1,91 @@
+/* Fonts */
+
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.left {
+  position: fixed;
+}
+
+.right {
+  margin-top: 20px;
+}
+
+a {
+  display: block;
+}
+
+/* Table */
+
+table {
+  margin: 0 auto;
+  overflow: scroll;
+  position: static;
+  width: 80%;
+}
+
+.homeagain {
+  margin: 30px 10px 10px 10px;
+  background-color: #ffccff;
+  width: 50%;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0px;
+  border-radius: 0px;
+  border: none;
+}
+  
+.homeagain a:link, a:visited {
+  margin: 0 auto;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  display: block; 
+}
+
+.homeagain td:hover {
+  background-color: #ffffff
+}
+
+.navigation {
+  margin: 30px 10px 10px 10px;
+  padding: 0px;
+  border-radius: 0px;
+  border: none;
+  background-color: #ffccff;
+  font-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  width: 100%;
+  scroll-behavior: smooth;
+  position: sticky;
+}
+
+.navigation td a:link, a:visited {
+  margin: 0 auto;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+
+.navigation td:hover {
+  background-color: #ffffff
+}
+
+.navigation td:nth-child(1) {
+  width: 25%;
+}
+
+.navigation td:nth-child(2) {
+  width: 25%;
+}
+
+
+/*AHHHHHHHHHHHHHHHHHH*/
+
+
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
