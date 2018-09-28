@@ -62,11 +62,6 @@ table {
   position: sticky;
 }
 
-.navigation th {
-    font-size: 12px;
-    font-weight: bold;
-}
-
 .navigation td a:link, a:visited {
   margin: 0 auto;
   text-align: center;
